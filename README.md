@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm RIMON ALI</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s" >
+
+
 - 🔭 I’m currently working on [parmanent Love Matrimony Website](https://project-12-matrimony.firebaseapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rimonali123](https://github.com/rimonali123)
