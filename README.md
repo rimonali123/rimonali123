@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rimonali.org.bd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15z-qXHkhxLH0wfXUmZ2bHcmQ5nNvX5Zt/view?usp=sharing](https://drive.google.com/file/d/15z-qXHkhxLH0wfXUmZ2bHcmQ5nNvX5Zt/view?usp=sharing)
+- 📄 Know about my experiences [Rimon Ali's Resume](https://drive.google.com/file/d/15z-qXHkhxLH0wfXUmZ2bHcmQ5nNvX5Zt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
